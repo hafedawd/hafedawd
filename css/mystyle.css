@@ -1,0 +1,60 @@
+p,li{
+	
+	font-size:17px;
+	line-height:2;
+	letter-spacing:0.50px;
+	font-family:Arial;
+}
+
+p{
+	font-weight:bold;
+	font-family:Tahoma;
+}
+
+h1{
+	font-size:65px;
+	color:deepskyblue;
+	text-align:center;
+	text-shadow: 3px 3px 1px black;
+}
+
+.class1{ /*this is class selector */
+	color:blue;
+}
+
+img{
+	height:200px;
+	width:200px;
+}
+
+.main{
+	height:1024px;
+	width:400px;
+	display:block;
+	margin:0 auto;
+	background-color:blue;
+	position:center;
+}
+
+#p1{ /*this is Id selector */
+	font-style:italic;
+}
+
+
+img{
+	display:block;
+	margin:0 auto;
+}
+
+
+
+body{
+	margin: 0 auto; /* the advanatge from this value that it dose center an enlement within the parent element*/
+	padding: 0 20px 20px 20px;
+	width:600px;
+    border: 4px solid black;
+	background-color:yellow;
+}
+html{
+	background-color: gray;
+}	
