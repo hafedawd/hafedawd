@@ -11,10 +11,10 @@ echo " <head>\n";
 echo "<script type=\"text/javascript\">\n";
 echo " \n";
 echo "if (navigator.userAgent.match(/(iPhone|iPod|iPad|Android|BlackBerry)/)) {\n";
-echo "  top.location = \"https://www.facebook.com/Manasati30/app/515384261992651\";\n";
+echo "  top.location = \"https://manasati30.herokuapp.com\";\n";
 echo "} else {\n";
 
-echo " if (top == self) { top.location = \"https://www.facebook.com/Manasati30/app/515384261992651\"; }\n";
+echo " if (top == self) { top.location = \"https://manasati30.herokuapp.com\"; }\n";
 echo "  ; //this is the browser";
 
 
