@@ -14,7 +14,7 @@ echo "if (navigator.userAgent.match(/(iPhone|iPod|iPad|Android|BlackBerry)/)) {\
 echo "  top.location = \"https://apps.facebook.com/515384261992651\";\n";
 echo "} else {\n";
 
-echo " if (top == self) { top.location = \"https://www.facebook.com/Manasati30/app/515384261992651\"; }\n";
+echo " if (top == self) { top.location = \"https://apps.facebook.com/515384261992651\"; }\n";
 echo "  ; //this is the browser";
 
 
