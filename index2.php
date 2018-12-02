@@ -4,7 +4,7 @@
  
 // Configuration: Define your Variables here
  
-
+/*
  
 
 echo "<!DOCTYPE html>\n";
@@ -81,6 +81,9 @@ echo "\n";
 echo "\n";
 echo "</body>\n";
 echo "\n";
-echo "</html>";
+echo "</html>"; */
+
+header("Location: https://apps.facebook.com/515384261992651"); /* Redirect browser */
+exit();
 
 ?>
