@@ -6,8 +6,12 @@ echo "<!DOCTYPE html>\n";
 echo "\n";
 echo "<html lang=\"en\">\n";
 echo " <head>\n";
-
-
+echo '';
+echo '<title>';
+echo 'شارك انت ايضا لتعرف هل انت فوضوي؟';
+echo '</title>';
+echo '';
+echo " \n"
 echo "<script type=\"text/javascript\">\n";
 echo " \n";
 echo "if (navigator.userAgent.match(/(iPhone|iPod|iPad|Android|BlackBerry)/)) {\n";
